@@ -5,7 +5,7 @@ This Javascript program is a simple "Java script" program that demonstrates basi
 This program is a simple program written in Javascript programming language. This program has a user defined function- Mintfunction which creates an object of type NFT( which is user defined) with the data passed as parameters. And then outputs those NFT meta data.
 
 <h2> Video Representation</h2>
-https://drive.google.com/drive/my-drive?q=type:video
+https://drive.google.com/file/d/1MJmsrKH2_leMrdtqhluxRD4sumiVa2PG/view?usp=sharing
 
 <h2>Getting Started</h2>
 <h3>Executing program</h3>
